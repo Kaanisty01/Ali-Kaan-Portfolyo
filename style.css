@@ -1,0 +1,57 @@
+p {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: x-large;
+    color: #f7f6f5;
+}
+
+body{
+    background-image: url("icons/background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+    color: #f7f6f5;
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    color: #f7f6f5;
+    font-family: "Inter", sans-serif;
+    padding: 15px;
+}
+
+.me {
+    border: 5px solid #39a9e5;
+    width: 8vw;
+    border-radius: 2vw;
+    text-align: center;
+}
+
+.tablo {
+    border: 5px solid #39a9e5;
+    border-radius: 10px;
+    background-color: #39a9e5;
+    width: 300px;
+    height: 500px;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    margin: auto;
+}
+
+.instagram {
+    width: 2vw;
+}
+
+.discord {
+    width: 2.5vw
+}
